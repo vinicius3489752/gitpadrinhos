@@ -1,4 +1,5 @@
 scenario Login(){
     clicaBotao()
     insereSenha()
+    insereUsername()
 }
