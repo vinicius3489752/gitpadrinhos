@@ -5,3 +5,7 @@ void clicaBotao(){
 void insereSenha(){
     senha.setText("senha123")
 }
+
+void insereUsername(){
+    senha.setText("usuario123")
+}
