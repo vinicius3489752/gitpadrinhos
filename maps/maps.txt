@@ -1,3 +1,6 @@
 button login = id[login]
 input senha = id[senha]
 input username = id[username]
+button menu = id[menu]
+
+button categoria = id[categoria]
