@@ -9,3 +9,7 @@ void insereSenha(){
 void insereUsername(){
     senha.setText("usuario123")
 }
+
+void clicaMenu(){
+    menu.click()
+}
