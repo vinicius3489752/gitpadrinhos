@@ -3,4 +3,5 @@ scenario Login(){
     insereSenha()
     insereUsername()
     clicaMenu()
+    clicaFiltro()
 }

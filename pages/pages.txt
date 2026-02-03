@@ -13,3 +13,7 @@ void insereUsername(){
 void clicaMenu(){
     menu.click()
 }
+
+void clicaFiltro(){
+    filtro.click()
+}

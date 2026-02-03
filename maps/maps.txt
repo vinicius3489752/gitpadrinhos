@@ -4,3 +4,4 @@ input username = id[username]
 button menu = id[menu]
 
 button categoria = id[categoria]
+button filtro = id[filtro]
