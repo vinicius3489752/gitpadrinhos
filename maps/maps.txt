@@ -5,8 +5,5 @@ button menu = id[menu]
 
 button categoria = id[categoria]
 button filtro = id[filtro]
-<<<<<<< HEAD
 button expandir = id[expandir]
 button colapse = id[collapse]
-=======
->>>>>>> 8af7b19f845ff4d7facd919aa6fb63549e9cc063
